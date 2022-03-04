@@ -1,0 +1,15 @@
+body {
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-image: url(bootstrap/img/fundo1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+body h1{
+    color: rgb(5, 3, 151);
+}
